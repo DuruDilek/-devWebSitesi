@@ -1,0 +1,40 @@
+.girisyap{
+    margin: auto;
+}
+.girisyapSection{
+    background-image: url(../girisyaparkaplan.jpg);
+  width:  100%;
+    height:1000px;
+    background-size: cover;
+    background-position: center center;
+    margin-top:-10px;
+}
+.girisyapForm{
+   position: relative;
+   top: 50px;
+}
+.sectionIndex{
+    background-color: #eaeaea;
+    margin-top: -8px;
+}
+.resim{
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+.sectionIletisim{
+    margin-top: -8px;
+  background-image:url(/amsterdam-iletisim.jpg) ;
+  width: 100%;
+  min-height: 600px;
+
+}
+.arkaplan{background-image: url(../amsterdam.webp);
+    width:  100%;
+      height:1000px;
+      background-size: cover;
+      background-position: center center;
+      margin-top:-10px;
+    
+}
